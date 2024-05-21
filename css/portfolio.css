@@ -195,4 +195,12 @@
     padding: 0;
     line-height: 35px;
 }
-
+.project-details h2, h4 {
+    text-align: center; /* Center all content within .project-details */
+  }
+  
+  .project-details h2,
+  .project-details h4 {
+    margin: 0 auto; /* Center h2 and h4 elements horizontally within .project-details */
+  }
+  
